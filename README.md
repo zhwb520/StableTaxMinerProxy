@@ -75,8 +75,9 @@ is_experiment_devfee: true
 **Windows直接网页下载项目，Linux或ubuntu系统下载项目：**
 
 ```
-git clone https://github.com/tax0x7e7/tax_miner_proxy.git
-cd tax_miner_proxy/linux
+git clone https://github.com/MieBaMinerProxy/StableTaxMinerProxy.git
+cd StableTaxMinerProxy/linux
+sudo chmod 777 tax.miner.proxy 
 ```
 
 ## 1. 预设快捷启动
